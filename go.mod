@@ -1,4 +1,4 @@
-module stumble-bot
+module github.com/maybelowe/stumble-bot
 
 go 1.18
 
