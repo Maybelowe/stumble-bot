@@ -5,8 +5,9 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/ArugaZ/stumble-bot/app"
-	"github.com/ArugaZ/stumble-bot/vars"
+	"stumble-bot/app"
+	"stumble-bot/vars"
+
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
@@ -16,7 +17,7 @@ var rootCommand = &cobra.Command{
 	Short: "Stumble Bot for Push Rank",
 	Long: `Stumble Bot for Push Rank:
 
-	https://github.com/ArugaZ/stumble-bot`,
+	stumble-bot`,
 }
 
 var runCommand = &cobra.Command{

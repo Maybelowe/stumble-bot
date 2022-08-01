@@ -8,8 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ArugaZ/stumble-bot/types"
-	"github.com/ArugaZ/stumble-bot/vars"
+	"stumble-bot/types"
+	"stumble-bot/vars"
+
 	"golang.org/x/net/context"
 )
 

@@ -1,6 +1,6 @@
 package main
 
-import cmd "github.com/ArugaZ/stumble-bot/command"
+import cmd "stumble-bot/command"
 
 func main() {
 	// Abis berak, gabut buat beginian
